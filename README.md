@@ -11,7 +11,7 @@ This variable can also be changeed in the Variables file available from `@Resour
 
 **How to change?** >> To set time zone, use +/- hours from GMT. In case there is a half-hour or so difference, for instance +1.30 GMT, use +1.5.
 
-#Screenshots
+# Screenshots
 ![Fullscreen](Screenshots/fullscreen.png)
 
 ![ZoomedIn](Screenshots/skin-only.png)
